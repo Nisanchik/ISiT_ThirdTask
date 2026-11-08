@@ -1,0 +1,4 @@
+huggingface_hub>=0.34
+requests>=2.32
+Pillow>=11
+scikit-learn>=1.6

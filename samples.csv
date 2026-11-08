@@ -1,0 +1,31 @@
+id,article,label,difficulty
+01,Boeing 737,civilian,Похож на военный P-8 Poseidon
+02,Boeing P-8 Poseidon,military,Военный патрульный вариант пассажирского Boeing 737
+03,Boeing 767,civilian,Похож на военный самолёт-заправщик KC-46
+04,Boeing KC-46 Pegasus,military,Военный самолёт-заправщик на основе Boeing 767
+05,Boeing 747,civilian,Похож на военно-правительственный VC-25
+06,Boeing VC-25,military,Военный самолёт специального назначения на основе Boeing 747
+07,ATR 72,civilian,Гражданский турбовинтовой самолёт
+08,Boeing E-3 Sentry,military,Военный самолёт ДРЛО на основе гражданского лайнера
+09,Gulfstream G650,civilian,Бизнес-джет похож на военные самолёты спецназначения
+10,Boeing E-7 Wedgetail,military,Самолёт ДРЛО с корпусом пассажирского Boeing 737
+11,Beechcraft King Air,civilian,Гражданский турбовинтовой самолёт с военными модификациями
+12,Beechcraft T-6 Texan II,military,Военный учебный самолёт без заметного вооружения
+13,Pilatus PC-12,civilian,Гражданский самолёт с военно-служебными модификациями
+14,Pilatus PC-21,military,Военный учебный самолёт похожий на гражданский
+15,Airbus A320 family,civilian,Обычный гражданский пассажирский лайнер
+16,Embraer C-390 Millennium,military,Военно-транспортный реактивный самолёт
+17,Embraer E-Jet family,civilian,Региональный гражданский самолёт
+18,Lockheed C-130 Hercules,military,Военно-транспортный турбовинтовой самолёт
+19,De Havilland Canada Dash 8,civilian,Региональный гражданский турбовинтовой самолёт
+20,Airbus A400M Atlas,military,Военно-транспортный самолёт без вооружения
+21,Cessna Citation X,civilian,Гражданский реактивный бизнес-джет
+22,Boeing C-17 Globemaster III,military,Военно-транспортный реактивный самолёт
+23,Cessna 172,civilian,Небольшой гражданский самолёт
+24,Lockheed Martin F-35 Lightning II,military,Военный истребитель
+25,Canadair CL-415,civilian,Гражданский противопожарный самолёт
+26,Eurofighter Typhoon,military,Военный истребитель
+27,Air Tractor AT-802,civilian,Гражданский сельскохозяйственный самолёт с военными модификациями
+28,Boeing B-52 Stratofortress,military,Военный бомбардировщик
+29,Airbus A350,civilian,Гражданский пассажирский дальнемагистральный самолёт
+30,Northrop Grumman B-2 Spirit,military,Военный малозаметный бомбардировщик
